@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.ed3e9a46.css","mappings":"AAAA,YACI,kCACJ,CAEA,KACI,iBACJ,CAEA,OAEA,WAAY,CADZ,YAEA","sources":["Asset/Css/Style.css"],"sourcesContent":[".background{\r\n    background-color: rgb(125, 159, 76) !important;\r\n}\r\n\r\nbody{\r\n    overflow-x: hidden;\r\n}\r\n\r\n.mybtn{\r\noutline: none;\r\nborder: none;\r\n}"],"names":[],"sourceRoot":""}
